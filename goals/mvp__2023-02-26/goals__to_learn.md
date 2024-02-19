@@ -2,6 +2,8 @@
 
 ## Short term of goals of the MVP
 
+### Launching to self
+
 - Can use the MVP just learn more & experiment, don't even need to publish it publically if uncomfortable on not having a clear sense of direction, and feel that going doing this direction to lead to commitments (even only to self & team) that could take critical time away from learning.
   - For example can launch to self & test out different ideas:
     - *Tracking relationship*
@@ -37,6 +39,23 @@
 
 - Need to ask about exact specific value & whether this app was "critical" to achieving what wanted, or whether it helped achieve greater heights
   - Need to quantitively measure & gather proof of value or no value
+
+### Why & how people collect information
+
+- (eventually) Need to understand:
+  - What kind of information people collect & why?
+  - How they currently collect that information?
+
+### Data based/informed decision making
+
+- Need to understand who most critically needs to make "data based/informed decisions", using real data "in the field"
+  - Like convience store owners
+
+### Get data for positioning goals
+
+- What are the "competitive alternatives" that people utilize?
+- What is the "unique value" of what want to build?
+- Who "cares most about that value"?
 
 ## To organize & clarify thoughts
 
